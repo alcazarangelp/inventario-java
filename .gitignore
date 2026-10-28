@@ -1,0 +1,5 @@
+# Compilados y binarios de Java
+*.class
+
+# Paquetes y compilaciones de Maven / Gradle
+target/
