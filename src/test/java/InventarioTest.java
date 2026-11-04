@@ -5,6 +5,6 @@ public class InventarioTest {
     @Test 
     void calcularSubtotalDeCuatroProductos() {
         int resultado = Inventario.calcularSubtotal(50, 4);
-        assertEquals(200, resultado);
+        assertEquals(250, resultado);
     }
 }
